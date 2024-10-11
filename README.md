@@ -24,7 +24,7 @@ Each algorithm is presented in a Jupyter Notebook (.ipynb), following the implem
 # How to Use
 Clone this repository:
 
-git clone https://github.com/yourusername/Big_Data_Algorithms.git
+git clone https://github.com/llorenscapotorres/Big_Data_Algorithms.git
 
 Navigate to the folder of the specific algorithm you are interested in.
 Open the corresponding Jupyter Notebook and run the code to explore how the algorithm works.
